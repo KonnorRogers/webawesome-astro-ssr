@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@awesome.me/astro-lit": "^5.0.4",
-    "@awesome.me/webawesome": "^3.8.0",
+    "@awesome.me/webawesome": "^3.9.0",
     "astro": "^6.4.6"
   }
 }
